@@ -1,0 +1,5 @@
+docutils==0.16
+fuzzywuzzy==0.18.0
+numpy==1.20.1
+scipy==1.6.1
+statistics==1.0.3.5
